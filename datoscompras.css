@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+.opciones{
+    display: flex;
+    justify-content: space-between;
+}
+.datosinfor{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+gap: 20px;
+
+}
